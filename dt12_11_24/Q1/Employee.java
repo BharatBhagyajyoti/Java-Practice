@@ -1,4 +1,4 @@
-package nareshit.lab.dt12_10_24.Q1;
+package nareshit.lab.dt12_11_24.Q1;
 
 public class Employee extends Person{
     String employeeId;
