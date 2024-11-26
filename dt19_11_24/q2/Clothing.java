@@ -1,6 +1,6 @@
 package nareshit.lab.dt19_11_24.q2;
 
-import javax.xml.transform.Source;
+
 
 public class Clothing extends Product{
     private String size;
