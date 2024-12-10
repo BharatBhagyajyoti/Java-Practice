@@ -15,7 +15,7 @@ public class Bread extends Food{
 
     @Override
     void getMacroNutrients() {
-        System.out.println("A slice of bread has \n" +super.proteins+" gms of protein\n"+super.fats+" gms of fats\n"+super.carbs+" gms of carbohydrates.");
+        System.out.println("A slice of bread has \n" +this.proteins+" gms of protein\n"+this.fats+" gms of fats\n"+this.carbs+" gms of carbohydrates.");
 
     }
 }
