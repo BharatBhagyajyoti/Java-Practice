@@ -13,7 +13,9 @@ public class Egg extends Food{
     @Override
     void getMacroNutrients()
     {
+        System.out.println("Bread is :"+type);
         System.out.println("An egg has \n" +this.proteins+" gms of protein\n"+this.fats+" gms of fats\n"+this.carbs+" gms of carbohydrates.");
+        System.out.println("Taste Score: "+tastyScore);
     }
 
 
