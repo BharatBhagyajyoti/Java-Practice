@@ -1,0 +1,19 @@
+Features of the Implementation
+=================================s
+
+Encapsulation:
+----------------
+The MobilePhone class encapsulates all attributes and behaviors related to the phone, making it easy to manage.
+
+Polymorphism:
+-------------
+By using the SIMCardInterface, the MobilePhone can work with any SIM implementation (Airtel, Jio, BSNL), showcasing polymorphism.
+
+Flexibility:
+------------
+Adding new SIM providers (e.g., Vodafone) is straightforward—just implement SIMCardInterface.
+
+Flexibility and Loosely Coupled Design:
+---------------------------------------
+The use of interfaces is a good design choice, as it ensures that the MobilePhone class is not tightly coupled to
+specific SIM implementations. This promotes scalability and flexibility.

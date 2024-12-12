@@ -1,0 +1,18 @@
+Features of the Implementation
+=================================
+
+Loosely Coupled Architecture:
+-----------------------------
+The Customer class interacts with banks through the Bank interface, making it independent of specific bank implementations.
+Adding new banks requires minimal changes.
+
+Encapsulation:
+--------------
+Each bank class encapsulates its accountBalance and transaction logic.
+Polymorphism:
+
+The Customer interacts with different banks using the same interface methods (deposit, withdraw, checkBalance).
+
+Demonstration:
+---------------
+The TestBankingSystem class demonstrates how the customer can interact with multiple banks seamlessly.
