@@ -1,0 +1,10 @@
+Q1) Write a program to reverse ArrayList in java?
+
+Q2) Write a program to convert LinkedList to ArrayList?
+
+Q3) Write a program to remove element from ArrayList which contains only numbers (ArrayList<Integer>)
+by using remove method of List interface as well as remove method of Collcetion interface.
+
+Q4) Write a program to merge to Collection data which contains fruits name.
+
+Q5) Write a Program to traverse the elements of ArrayList in both the    direction i.e forward and Backward.
